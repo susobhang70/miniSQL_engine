@@ -1,0 +1,17 @@
+
+select * from table1
+select max(A) from table1
+select min(B) from table1
+select avg(C) from table1
+select sum(D) from table2
+select A from table1
+select A,D from table1,table2
+select distinct(C) from table3
+select B,C from table1 where A=-900
+select A,B from table1 where A=775 OR B=803
+select A,B from table1 where A=922 OR B=158;
+select * from table1,table2 where table1.B=table2.B
+select A,D from table1,table2 where table1.B=table2.B
+Select A from table4;
+Select Z from table1;
+q
