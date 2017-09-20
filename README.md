@@ -8,7 +8,7 @@ To run,
 
 **NOTE -** The main objective was to get all the test cases passing, and the deadline was soon upon us. Hence the coding style is bad and there is no proper documentation.  
 
-###Files
+### Files
 `sqlengine.py` - The SQL Engine 
 `metadata.txt` - Lists the metadata of the tables present in the directory
 `table#.csv` - # means number. These files specify the data in each of the tables according to the columns given in the metadata file. All integer values
